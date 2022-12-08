@@ -717,6 +717,65 @@
 			<i>Domorodé děti zabily doda.</i>
 		</p>
 	</div>
+	<div id="Alliance", class="Chapter">
+		<h2>
+			LŠM proti ID, Nepravděpodobná Aliance?
+		</h2>
+		<h3>
+			Kontroverze: vzájemná kontrola
+		</h3>
+		<p class="highlightInitial">
+			L<b>idé politizují vědu.</b> Podpůrci Inteligentního Designu, neboli ID, si do parády vzali vzdělávací představitele a politiky v bezostyšném pokusu o zavedení jejich přesvědčení do školních osnov jako "vědu". Jelikož 99% procent vědecké komunity podporuje teorii evoluce, čímž zdánlivě zamítá ID, tak podpůrci ID své návrhy
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+		<p>
+
+		</p>
+	</div>
 </article>
 
 <?php include("footer.php");?>
